@@ -2,6 +2,12 @@
 layout: post
 title: "FireCloud: Scalable Cloud Computing for Genome Analysis"
 subtitle: "How cloud platforms are transforming cancer genomics research"
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+mathjax: true
+author: Bill Smith
 date: 2026-05-05
 ---
 
