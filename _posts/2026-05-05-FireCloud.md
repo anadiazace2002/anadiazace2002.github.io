@@ -18,7 +18,8 @@ The rapid growth of genomic data has created major challenges in biomedical rese
 
 FireCloud is a cloud-based platform developed by the Broad Institute as part of the National Cancer Institute (NCI) Cloud Pilots. It is built on	a	cloud	computing	infrastructure and provides researchers with tools to store, manage, and analyze large genomic datasets.
 
-![FireCloud architecture](/images/FireCloud_schematic.PNG)
+![FireCloud architecture](/images/FireCloud_schematic.PNG){: .mx-auto.d-block :}
+
 *Figure 1: Overview of the FireCloud platform architecture. FireCloud	is	a	collaborative	platform	for	genomic	analysis	that	
 runs	on	the	Google	Cloud	Platform.	 User	interfaces	are	a	Web	GUI	and	a	RESTful	API	for	
 programmable	access.*
@@ -67,7 +68,7 @@ Instead of allocating fixed storage, disk size is adjusted based on input data, 
 
 ### 2. Optimized Virtual Machines
 Monitoring tools revealed that some tasks were over-provisioned. By reducing CPU usage to match actual needs, costs were significantly reduced.
-![CPU utilization](/images/cpu_utilization.PNG)
+![CPU utilization](/images/cpu_utilization.PNG){: .mx-auto.d-block :}
 *Figure 2: CPU usage before and after optimization.*
 
 ### 3. Preemptible Virtual Machines
