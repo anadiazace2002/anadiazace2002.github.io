@@ -12,8 +12,7 @@ date: 2026-05-05
 ---
 
 {: .box-success}
-The rapid growth of genomic data has created major challenges in biomedical research. With projects generating terabytes of sequencing data, traditional local computing infrastructures are no longer sufficient. Cloud computing has emerged as a powerful solution to handle these large-scale datasets efficiently.
-In this post, I explore  [FireCloud,	a	scalable	cloud-based	platform	for	collaborative	genome	analysis]([https://www.biorxiv.org/content/10.1101/209494v1])), a cloud-based platform designed to enable collaborative and scalable genome analysis, based on the work by Birger et al. (2017).
+The rapid growth of genomic data has created major challenges in biomedical research. With projects generating terabytes of sequencing data, traditional local computing infrastructures are no longer sufficient. Cloud computing has emerged as a powerful solution to handle these large-scale datasets efficiently. In this post, it explores  [FireCloud,	a	scalable	cloud-based	platform	for	collaborative	genome	analysis]([https://www.biorxiv.org/content/10.1101/209494v1])), a cloud-based platform designed to enable collaborative and scalable genome analysis, based on the work by Birger et al. (2017).
 
 ## What is FireCloud?
 
