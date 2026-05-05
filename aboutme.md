@@ -4,7 +4,7 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ana Díaz. I am from Barcelona and I am a mathematician aspiring to become a data scientist, with a strong interest in contributing to the healthcare sector. Have a look at my background below!
+My name is Ana Díaz. I am from Barcelona and I am a mathematician aspiring to contribute to the healthcare sector as a data scientist. Have a look at my background below!
 
 ### Education
 
