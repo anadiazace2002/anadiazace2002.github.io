@@ -15,13 +15,13 @@ date: 2026-05-05
 
 The rapid growth of genomic data has created major challenges in biomedical research. With projects generating terabytes of sequencing data, traditional local computing infrastructures are no longer sufficient. Cloud computing has emerged as a powerful solution to handle these large-scale datasets efficiently.
 
-In this post, I explore :contentReference[oaicite:0]{index=0}, a cloud-based platform designed to enable collaborative and scalable genome analysis, based on the work by Birger et al. (2017).
+In this post, I explore  [FireCloud,	a	scalable	cloud-based	platform	for	collaborative	genome	analysis]([https://markdowntutorial.com/](https://www.biorxiv.org/content/10.1101/209494v1.full.pdf)), a cloud-based platform designed to enable collaborative and scalable genome analysis, based on the work by Birger et al. (2017).
 
 ---
 
 ## What is FireCloud?
 
-FireCloud is a cloud-based platform developed by the Broad Institute as part of the National Cancer Institute (NCI) Cloud Pilots. It is built on :contentReference[oaicite:1]{index=1} and provides researchers with tools to store, manage, and analyze large genomic datasets.
+FireCloud is a cloud-based platform developed by the Broad Institute as part of the National Cancer Institute (NCI) Cloud Pilots. It is built on	a	cloud	computing	infrastructure and provides researchers with tools to store, manage, and analyze large genomic datasets.
 ![FireCloud architecture](../images/firecloud-architecture.png)
 *Figure 1: Overview of the FireCloud platform architecture.*
 
