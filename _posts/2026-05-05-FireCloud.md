@@ -76,7 +76,7 @@ Instead of allocating fixed storage, disk size is adjusted based on input data, 
 
 ### 2. Optimized Virtual Machines
 Monitoring tools revealed that some tasks were over-provisioned. By reducing CPU usage to match actual needs, costs were significantly reduced.
-![CPU utilization](../images/cpu-utilization.png)
+![CPU utilization](../images/cpu_utilization.PNG)
 *Figure 2: CPU usage before and after optimization.*
 
 ### 3. Preemptible Virtual Machines
